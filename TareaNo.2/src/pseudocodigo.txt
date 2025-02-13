@@ -1,0 +1,21 @@
+ALGORITMO Busqueda_Binaria (arreglo, valor)
+    izquierda ← 0
+    derecha ← tamaño(arreglo) - 1
+    MIENTRAS izquierda ≤ derecha HACER
+        medio ← (izquierda + derecha) / 2
+        SI arreglo[medio] = valor ENTONCES
+            RETORNAR medio
+        SI NO
+            SI arreglo[medio] < valor ENTONCES
+                izquierda ← medio + 1
+            SI NO
+                derecha ← medio - 1
+    RETORNAR -1  // No encontrado
+FIN ALGORITMO
+
+ALGORITMO Busqueda_Secuencial (arreglo, valor)
+    PARA i ← 0 HASTA tamaño(arreglo) - 1 HACER
+        SI arreglo[i] = valor ENTONCES
+            RETORNAR i
+    RETORNAR -1  // No encontrado
+FIN ALGORITMO
