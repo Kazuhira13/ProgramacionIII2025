@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tgpp1\\OneDrive\\Desktop\\Ejemplo de clase api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2063B1E-BB9D-4C68-962C-ED734D6EE34C}|Clase11.csproj|c:\\users\\tgpp1\\onedrive\\desktop\\ejemplo de clase api\\models\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2063B1E-BB9D-4C68-962C-ED734D6EE34C}|Clase11.csproj|solutionrelative:models\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2063B1E-BB9D-4C68-962C-ED734D6EE34C}|Clase11.csproj|c:\\users\\tgpp1\\onedrive\\desktop\\ejemplo de clase api\\controllers\\profesorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2063B1E-BB9D-4C68-962C-ED734D6EE34C}|Clase11.csproj|solutionrelative:controllers\\profesorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2063B1E-BB9D-4C68-962C-ED734D6EE34C}|Clase11.csproj|c:\\users\\tgpp1\\onedrive\\desktop\\ejemplo de clase api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B2063B1E-BB9D-4C68-962C-ED734D6EE34C}|Clase11.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2063B1E-BB9D-4C68-962C-ED734D6EE34C}|Clase11.csproj|c:\\users\\tgpp1\\onedrive\\desktop\\ejemplo de clase api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2063B1E-BB9D-4C68-962C-ED734D6EE34C}|Clase11.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2063B1E-BB9D-4C68-962C-ED734D6EE34C}|Clase11.csproj|c:\\users\\tgpp1\\onedrive\\desktop\\ejemplo de clase api\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2063B1E-BB9D-4C68-962C-ED734D6EE34C}|Clase11.csproj|solutionrelative:entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2063B1E-BB9D-4C68-962C-ED734D6EE34C}|Clase11.csproj|c:\\users\\tgpp1\\onedrive\\desktop\\ejemplo de clase api\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2063B1E-BB9D-4C68-962C-ED734D6EE34C}|Clase11.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2063B1E-BB9D-4C68-962C-ED734D6EE34C}|Clase11.csproj|c:\\users\\tgpp1\\onedrive\\desktop\\ejemplo de clase api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2063B1E-BB9D-4C68-962C-ED734D6EE34C}|Clase11.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2063B1E-BB9D-4C68-962C-ED734D6EE34C}|Clase11.csproj|c:\\users\\tgpp1\\onedrive\\desktop\\ejemplo de clase api\\data\\clasedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2063B1E-BB9D-4C68-962C-ED734D6EE34C}|Clase11.csproj|solutionrelative:data\\clasedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Desktop\\Ejemplo de clase api\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Desktop\\Ejemplo de clase api\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T23:38:51.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Desktop\\Ejemplo de clase api\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Desktop\\Ejemplo de clase api\\Entities\\Student.cs",
+              "RelativeToolTip": "Entities\\Student.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T23:14:09.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Desktop\\Ejemplo de clase api\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Entities\\User.cs",
+              "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Desktop\\Ejemplo de clase api\\Entities\\User.cs",
+              "RelativeToolTip": "Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T23:14:01.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Desktop\\Ejemplo de clase api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Desktop\\Ejemplo de clase api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T22:48:23.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Desktop\\Ejemplo de clase api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Desktop\\Ejemplo de clase api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-19T22:47:35.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProfesoresController.cs",
+              "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Desktop\\Ejemplo de clase api\\Controllers\\ProfesoresController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProfesoresController.cs",
+              "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Desktop\\Ejemplo de clase api\\Controllers\\ProfesoresController.cs",
+              "RelativeToolTip": "Controllers\\ProfesoresController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T22:03:29.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Profesor.cs",
+              "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Desktop\\Ejemplo de clase api\\Models\\Profesor.cs",
+              "RelativeDocumentMoniker": "Models\\Profesor.cs",
+              "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Desktop\\Ejemplo de clase api\\Models\\Profesor.cs",
+              "RelativeToolTip": "Models\\Profesor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T21:40:13.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClaseDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Desktop\\Ejemplo de clase api\\Data\\ClaseDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ClaseDbContext.cs",
+              "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Desktop\\Ejemplo de clase api\\Data\\ClaseDbContext.cs",
+              "RelativeToolTip": "Data\\ClaseDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T23:42:11.464Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
